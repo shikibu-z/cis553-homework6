@@ -1,0 +1,4 @@
+[submodule "mmark"]
+	path = mmark
+	url = https://github.com/vinlnx/mmark.git
+	ignore = all
